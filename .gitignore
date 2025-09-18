@@ -1,0 +1,19 @@
+# Compiled output
+/target/
+
+# Logs
+*.log
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# Server configurations created by IDE
+.metadata
+/tmp/
